@@ -15,7 +15,6 @@ public class Ventana extends JFrame {
     private DefaultTableModel dfTable;
     private Object[] o = new Object[4];
     private ArrayList<Estudiante> estudiantes = new ArrayList<>();
-    public static LinkedList contenedor = new LinkedList();
 
     private JPanel panel;
     private JLabel nombreL;
